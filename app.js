@@ -1,0 +1,2 @@
+/* this file will be used to ping routes
+it will also be used to assign roles based on response */
